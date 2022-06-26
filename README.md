@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 19 years old and from Sydney, Australia, I am a first year studying Mechatronic Engineering and Computer Science at the University of New South Wales. I'm an undergraduate student who's passionate about what I do, looking for every opportunity I can to get experience!
+I'm 19 years old and from Sydney, Australia, I am a first year studying Computer Science at the University of New South Wales. I'm an undergraduate student who's passionate about what I do, looking for every opportunity I can to get experience!
 
 <!--
 **ericnd/ericnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
