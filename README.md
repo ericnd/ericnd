@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm 19 years old and from Sydney, Australia, I am a first year studying Computer Science at the University of New South Wales. I'm an undergraduate student who's passionate about what I do, looking for every opportunity I can to get experience!
+* 2nd year computer science student @ UNSW
+* Subcom for UNSW MTRNSoc
 
 <!--
 **ericnd/ericnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
