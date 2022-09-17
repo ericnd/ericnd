@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello ~
 
-I'm currently studying computer science at the University of New South Wales in Sydney, Australia.
+I'm currently a 2nd year studying computer science at the University of New South Wales in Sydney, Australia.
 A few things about me:
 * Currently subcomittee for the UNSW Mechatronics Society
 * interested in data science
