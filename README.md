@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-* 2nd year computer science student @ UNSW
-* Subcom for UNSW MTRNSoc
+I'm currently studying computer science at the University of New South Wales in Sydney, Australia.
+A few things about me:
+* Currently subcomittee for the UNSW Mechatronics Society
+* interested in data science
+* Loves cats
+* Loves horror movies
 
 <!--
 **ericnd/ericnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
