@@ -1,18 +1,23 @@
 ### Hi my name is Eric! 👋
 
-# Some info
-I'm currently a 2nd year studying computer science at the University of New South Wales in Sydney, Australia.
-A few things about me:
-- Currently subcomittee for the UNSW Mechatronics Society
-- Interested in data science
-- Loves cats
-- Loves horror movies
+I'm currently studying Computer Science at the [University of New South Wales](https://www.unsw.edu.au/)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and am a student ambassador for the School of Mechanical and Manufacturing Engineering representing the [UNSW Mechatronics Society](https://unswmtrnsoc.org/).
 
-<p align="center">
-    <a <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
+<h4 align="left">Skills:</h3>
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-grey?style=flat-square&logo=arduino)
+
+
+<h4 align="left">My Links:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ericnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericnd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/e-ricd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e-ricd" height="30" width="40" /></a>
+<a href="https://instagram.com/e.ricdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.ricdo" height="30" width="40" /></a>
 </p>
 
 <!--
