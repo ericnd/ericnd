@@ -1,6 +1,12 @@
-### Hi my name is Eric! 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi my name is Eric! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 I'm currently studying Computer Science at the [University of New South Wales](https://www.unsw.edu.au/)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and am currently a student ambassador for the School of Mechanical and Manufacturing Engineering representing the [UNSW Mechatronics Society](https://unswmtrnsoc.org/).
+
+```js
+for (const day of year) {
+  drinkCoffee();
+}
+```
 
 <h4 align="left">Skills:</h3>
 
