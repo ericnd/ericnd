@@ -3,7 +3,8 @@
 I'm currently studying Computer Science at the [University of New South Wales](https://www.unsw.edu.au/)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and am currently a student ambassador for the School of Mechanical and Manufacturing Engineering representing the [UNSW Mechatronics Society](https://unswmtrnsoc.org/).
 
 ```js
-for (const day of year) {
+// My order: triple shot flat white, 2 sugars
+for (const day of year) { 
   drinkCoffee();
 }
 ```
