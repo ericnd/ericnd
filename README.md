@@ -17,7 +17,7 @@ for (const day of year) {
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-grey?style=flat-square&logo=arduino)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 
 <h4 align="left">My Links:</h3>
