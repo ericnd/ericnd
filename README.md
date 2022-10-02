@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi my name is Eric! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm currently studying Computer Science at the [University of New South Wales](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and was formerly a student ambassador for the School of Mechanical and Manufacturing Engineering, I am also currently an executive for the [UNSW Mechatronics Society](https://unswmtrnsoc.org/). I also have an interest in fintech and data science!
+I'm currently studying Computer Science at the [University of New South Wales](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and was formerly a student ambassador for the [School of Mechanical and Manufacturing Engineering](https://www.unsw.edu.au/engineering/our-schools/mechanical-and-manufacturing-engineering), I am also currently an executive for the [UNSW Mechatronics Society](https://unswmtrnsoc.org/). I also have an interest in fintech and data science!
 
 ```js
 // My order: triple shot flat white, 2 sugars
