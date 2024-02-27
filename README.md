@@ -1,9 +1,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi my name is Eric! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm currently studying Computer Science at the [University of New South Wales](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and was formerly a student ambassador for the [School of Mechanical and Manufacturing Engineering](https://www.unsw.edu.au/engineering/our-schools/mechanical-and-manufacturing-engineering). I was also formerly an executive for the [UNSW Mechatronics Society](https://unswmtrnsoc.org/), a director for the [UNSW Mathematics Society](https://unswmathsoc.org/) and was on the performance optomization team for [Sunswift Racing](https://www.sunswift.com/). Recently I've taken interest in low latency development and quantitative trading!
+I'm a Computer Science student at the [University of New South Wales](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)! I really like [robots](https://www.youtube.com/watch?v=KKWVVbI5lVM) and was formerly a student ambassador for the [School of Mechanical and Manufacturing Engineering](https://www.unsw.edu.au/engineering/our-schools/mechanical-and-manufacturing-engineering). I was also formerly an executive for the [UNSW Mechatronics Society](https://unswmtrnsoc.org/), a director for the [UNSW Mathematics Society](https://unswmathsoc.org/) and was on the performance optimisation team for [Sunswift Racing](https://www.sunswift.com/). Recently I've taken interest in low latency development and quantitative trading!
+
+I'm currently working on a project called [Propagate](https://propagate.ink/)!
 
 ```js
-// My order: triple shot flat white, 2 sugars
+// My order: almond ice latte
 for (const day of year) { 
   drinkCoffee();
 }
