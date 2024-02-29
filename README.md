@@ -5,7 +5,7 @@ I'm a Computer Science student at the [University of New South Wales](https://ww
 I'm currently working on a project called [Propagate](https://propagate.ink/)!
 
 ```js
-// My order: almond ice latte
+// My order: large ice latte with almond milk!
 for (const day of year) { 
   drinkCoffee();
 }
