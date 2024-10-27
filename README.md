@@ -37,7 +37,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-grey?style=flat-square&logo=arduino)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
